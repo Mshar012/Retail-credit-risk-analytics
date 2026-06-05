@@ -1,0 +1,12 @@
+guarantor_id,loan_id,first_name,last_name,phone,state,city
+1,202,Sarah,Guarantor102,703-555-9999,VA,Richmond
+2,209,Sarah,Guarantor109,703-555-9999,VA,Richmond
+3,214,Sarah,Guarantor114,703-555-9999,VA,Richmond
+4,245,Sarah,Guarantor145,703-555-9999,VA,Richmond
+5,278,Sarah,Guarantor178,703-555-9999,VA,Richmond
+6,302,Sarah,Guarantor202,703-555-9999,VA,Richmond
+7,314,Sarah,Guarantor214,703-555-9999,VA,Richmond
+8,335,Sarah,Guarantor235,703-555-9999,VA,Richmond
+9,204,Sarah,Guarantor104,703-555-9999,VA,Richmond
+10,254,Sarah,Guarantor154,703-555-9999,VA,Richmond
+11,305,Sarah,Guarantor205,703-555-9999,VA,Richmond

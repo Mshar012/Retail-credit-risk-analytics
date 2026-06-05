@@ -1,0 +1,151 @@
+employment_id,borrower_id,employer_name,annual_income,employment_status
+501,101,Amalgamated Retail Holdings,100550.0,Full-Time
+502,102,United Health Group,101100.0,Full-Time
+503,103,United Airlines,101650.0,Full-Time
+504,104,Amalgamated Retail Holdings,102200.0,Full-Time
+505,105,United Health Group,102750.0,Contract
+506,106,United Airlines,103300.0,Full-Time
+507,107,Amalgamated Retail Holdings,103850.0,Full-Time
+508,108,United Health Group,104400.0,Full-Time
+509,109,United Airlines,104950.0,Full-Time
+510,110,Amalgamated Retail Holdings,105500.0,Contract
+511,111,United Health Group,106050.0,Full-Time
+512,112,United Airlines,106600.0,Full-Time
+513,113,Amalgamated Retail Holdings,107150.0,Full-Time
+514,114,United Health Group,107700.0,Full-Time
+515,115,United Airlines,108250.0,Contract
+516,116,Amalgamated Retail Holdings,108800.0,Full-Time
+517,117,United Health Group,109350.0,Full-Time
+518,118,United Airlines,109900.0,Full-Time
+519,119,Amalgamated Retail Holdings,110450.0,Full-Time
+520,120,United Health Group,111000.0,Contract
+521,121,United Airlines,111550.0,Full-Time
+522,122,Amalgamated Retail Holdings,112100.0,Full-Time
+523,123,United Health Group,112650.0,Full-Time
+524,124,United Airlines,113200.0,Full-Time
+525,125,Amalgamated Retail Holdings,113750.0,Contract
+526,126,United Health Group,114300.0,Full-Time
+527,127,United Airlines,114850.0,Full-Time
+528,128,Amalgamated Retail Holdings,115400.0,Full-Time
+529,129,United Health Group,115950.0,Full-Time
+530,130,United Airlines,116500.0,Contract
+531,131,Amalgamated Retail Holdings,117050.0,Full-Time
+532,132,United Health Group,117600.0,Full-Time
+533,133,United Airlines,118150.0,Full-Time
+534,134,Amalgamated Retail Holdings,118700.0,Full-Time
+535,135,United Health Group,119250.0,Contract
+536,136,United Airlines,119800.0,Full-Time
+537,137,Amalgamated Retail Holdings,120350.0,Full-Time
+538,138,United Health Group,120900.0,Full-Time
+539,139,United Airlines,121450.0,Full-Time
+540,140,Amalgamated Retail Holdings,122000.0,Contract
+541,141,United Health Group,122550.0,Full-Time
+542,142,United Airlines,123100.0,Full-Time
+543,143,Amalgamated Retail Holdings,123650.0,Full-Time
+544,144,United Health Group,124200.0,Full-Time
+545,145,United Airlines,124750.0,Contract
+546,146,Amalgamated Retail Holdings,125300.0,Full-Time
+547,147,United Health Group,125850.0,Full-Time
+548,148,United Airlines,126400.0,Full-Time
+549,149,Amalgamated Retail Holdings,126950.0,Full-Time
+550,150,United Health Group,127500.0,Contract
+551,151,United Airlines,128050.0,Full-Time
+552,152,Amalgamated Retail Holdings,128600.0,Full-Time
+553,153,United Health Group,129150.0,Full-Time
+554,154,United Airlines,129700.0,Full-Time
+555,155,Amalgamated Retail Holdings,130250.0,Contract
+556,156,United Health Group,130800.0,Full-Time
+557,157,United Airlines,131350.0,Full-Time
+558,158,Amalgamated Retail Holdings,131900.0,Full-Time
+559,159,United Health Group,132450.0,Full-Time
+560,160,United Airlines,133000.0,Contract
+561,161,Amalgamated Retail Holdings,133550.0,Full-Time
+562,162,United Health Group,134100.0,Full-Time
+563,163,United Airlines,134650.0,Full-Time
+564,164,Amalgamated Retail Holdings,135200.0,Full-Time
+565,165,United Health Group,135750.0,Contract
+566,166,United Airlines,136300.0,Full-Time
+567,167,Amalgamated Retail Holdings,136850.0,Full-Time
+568,168,United Health Group,137400.0,Full-Time
+569,169,United Airlines,137950.0,Full-Time
+570,170,Amalgamated Retail Holdings,138500.0,Contract
+571,171,United Health Group,139050.0,Full-Time
+572,172,United Airlines,139600.0,Full-Time
+573,173,Amalgamated Retail Holdings,140150.0,Full-Time
+574,174,United Health Group,140700.0,Full-Time
+575,175,United Airlines,141250.0,Contract
+576,176,Amalgamated Retail Holdings,141800.0,Full-Time
+577,177,United Health Group,142350.0,Full-Time
+578,178,United Airlines,142900.0,Full-Time
+579,179,Amalgamated Retail Holdings,143450.0,Full-Time
+580,180,United Health Group,144000.0,Contract
+581,181,United Airlines,144550.0,Full-Time
+582,182,Amalgamated Retail Holdings,145100.0,Full-Time
+583,183,United Health Group,145650.0,Full-Time
+584,184,United Airlines,146200.0,Full-Time
+585,185,Amalgamated Retail Holdings,146750.0,Contract
+586,186,United Health Group,147300.0,Full-Time
+587,187,United Airlines,147850.0,Full-Time
+588,188,Amalgamated Retail Holdings,148400.0,Full-Time
+589,189,United Health Group,148950.0,Full-Time
+590,190,United Airlines,149500.0,Contract
+591,191,Amalgamated Retail Holdings,150050.0,Full-Time
+592,192,United Health Group,150600.0,Full-Time
+593,193,United Airlines,151150.0,Full-Time
+594,194,Amalgamated Retail Holdings,151700.0,Full-Time
+595,195,United Health Group,152250.0,Contract
+596,196,United Airlines,152800.0,Full-Time
+597,197,Amalgamated Retail Holdings,153350.0,Full-Time
+598,198,United Health Group,153900.0,Full-Time
+599,199,United Airlines,154450.0,Full-Time
+600,200,Amalgamated Retail Holdings,155000.0,Contract
+601,201,United Health Group,155550.0,Full-Time
+602,202,United Airlines,156100.0,Full-Time
+603,203,Amalgamated Retail Holdings,156650.0,Full-Time
+604,204,United Health Group,157200.0,Full-Time
+605,205,United Airlines,157750.0,Contract
+606,206,Amalgamated Retail Holdings,158300.0,Full-Time
+607,207,United Health Group,158850.0,Full-Time
+608,208,United Airlines,159400.0,Full-Time
+609,209,Amalgamated Retail Holdings,159950.0,Full-Time
+610,210,United Health Group,160500.0,Contract
+611,211,United Airlines,161050.0,Full-Time
+612,212,Amalgamated Retail Holdings,161600.0,Full-Time
+613,213,United Health Group,162150.0,Full-Time
+614,214,United Airlines,162700.0,Full-Time
+615,215,Amalgamated Retail Holdings,163250.0,Contract
+616,216,United Health Group,163800.0,Full-Time
+617,217,United Airlines,164350.0,Full-Time
+618,218,Amalgamated Retail Holdings,164900.0,Full-Time
+619,219,United Health Group,165450.0,Full-Time
+620,220,United Airlines,166000.0,Contract
+621,221,Amalgamated Retail Holdings,166550.0,Full-Time
+622,222,United Health Group,167100.0,Full-Time
+623,223,United Airlines,167650.0,Full-Time
+624,224,Amalgamated Retail Holdings,168200.0,Full-Time
+625,225,United Health Group,168750.0,Contract
+626,226,United Airlines,169300.0,Full-Time
+627,227,Amalgamated Retail Holdings,169850.0,Full-Time
+628,228,United Health Group,170400.0,Full-Time
+629,229,United Airlines,170950.0,Full-Time
+630,230,Amalgamated Retail Holdings,171500.0,Contract
+631,231,United Health Group,172050.0,Full-Time
+632,232,United Airlines,172600.0,Full-Time
+633,233,Amalgamated Retail Holdings,173150.0,Full-Time
+634,234,United Health Group,173700.0,Full-Time
+635,235,United Airlines,174250.0,Contract
+636,236,Amalgamated Retail Holdings,174800.0,Full-Time
+637,237,United Health Group,175350.0,Full-Time
+638,238,United Airlines,175900.0,Full-Time
+639,239,Amalgamated Retail Holdings,176450.0,Full-Time
+640,240,United Health Group,177000.0,Contract
+641,241,United Airlines,177550.0,Full-Time
+642,242,Amalgamated Retail Holdings,178100.0,Full-Time
+643,243,United Health Group,178650.0,Full-Time
+644,244,United Airlines,179200.0,Full-Time
+645,245,Amalgamated Retail Holdings,179750.0,Contract
+646,246,United Health Group,180300.0,Full-Time
+647,247,United Airlines,180850.0,Full-Time
+648,248,Amalgamated Retail Holdings,181400.0,Full-Time
+649,249,United Health Group,181950.0,Full-Time
+650,250,United Airlines,182500.0,Contract

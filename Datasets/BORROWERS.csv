@@ -1,0 +1,151 @@
+borrower_id,first_name,last_name,phone,state,city,date_of_birth
+101,Mubtasim,Sharar,718-813-7195,IL,Champaign,1998-05-12
+102,John,Doe,718-555-0102,MA,Boston,1979-10-11
+103,Jane,Smith,718-555-0103,FL,Miami,1979-11-15
+104,Alice,Johnson,718-555-0104,NY,New York,1979-12-20
+105,Bob,Miller,,CA,San Francisco,1980-01-24
+106,Charlie,Brown,718-555-0106,TX,Austin,1980-02-28
+107,David,Davis,718-555-0107,PA,Scranton,1980-04-03
+108,Eva,Garcia,718-555-0108,GA,Atlanta,1980-05-08
+109,Frank,Wilson,718-555-0109,WA,Seattle,1980-06-12
+110,Grace,Lee,,IL,Champaign,1980-07-17
+111,Henry,Clark,718-555-0111,VA,Richmond,1980-08-21
+112,Ivy,Lewis,718-555-0112,MA,Boston,1980-09-25
+113,Jack,Allen,718-555-0113,FL,Miami,1980-10-30
+114,Karen,Young,718-555-0114,NY,New York,1980-12-04
+115,Leo,King,,CA,San Francisco,1981-01-08
+116,Mia,Wright,718-555-0116,TX,Austin,1981-02-12
+117,Nathan,Scott,718-555-0117,PA,Scranton,1981-03-19
+118,Olivia,Green,718-555-0118,GA,Atlanta,1981-04-23
+119,Peter,Baker,718-555-0119,WA,Seattle,1981-05-28
+120,Ryan,Howard,,IL,Champaign,1981-07-02
+121,Sophia,Hill,718-555-0121,VA,Richmond,1981-08-06
+122,Thomas,Adams,718-555-0122,MA,Boston,1981-09-10
+123,Ursula,Cruz,718-555-0123,FL,Miami,1981-10-15
+124,Victor,Evans,718-555-0124,NY,New York,1981-11-19
+125,Wendy,Ford,,CA,San Francisco,1981-12-24
+126,Xavier,Gray,718-555-0126,TX,Austin,1982-01-28
+127,Yolanda,Hall,718-555-0127,PA,Scranton,1982-03-04
+128,Zachary,Irwin,718-555-0128,GA,Atlanta,1982-04-08
+129,Amos,Jones,718-555-0129,WA,Seattle,1982-05-13
+130,Beatrice,Keller,,IL,Champaign,1982-06-17
+131,Clayton,Lopez,718-555-0131,VA,Richmond,1982-07-22
+132,Diana,Mason,718-555-0132,MA,Boston,1982-08-26
+133,Ethan,Nixon,718-555-0133,FL,Miami,1982-09-30
+134,Fiona,Owen,718-555-0134,NY,New York,1982-11-04
+135,George,Page,,CA,San Francisco,1982-12-09
+136,Hannah,Quinn,718-555-0136,TX,Austin,1983-01-13
+137,Ian,Ross,718-555-0137,PA,Scranton,1983-02-17
+138,Julia,Stone,718-555-0138,GA,Atlanta,1983-03-24
+139,Kevin,Thomas,718-555-0139,WA,Seattle,1983-04-28
+140,Laura,Upton,,IL,Champaign,1983-06-02
+141,Marcus,Vance,718-555-0141,VA,Richmond,1983-07-07
+142,Nora,Welch,718-555-0142,MA,Boston,1983-08-11
+143,Owen,Xavier,718-555-0143,FL,Miami,1983-09-15
+144,Paige,Young,718-555-0144,NY,New York,1983-10-20
+145,Quentin,Zane,,CA,San Francisco,1983-11-24
+146,Rachel,Abbott,718-555-0146,TX,Austin,1983-12-29
+147,Steven,Bell,718-555-0147,PA,Scranton,1984-02-02
+148,Tina,Chief,718-555-0148,GA,Atlanta,1984-03-08
+149,Umar,Duke,718-555-0149,WA,Seattle,1984-04-12
+150,Valerie,East,,IL,Champaign,1984-05-17
+151,Mubtasim,Sharar,718-555-0151,VA,Richmond,1984-06-21
+152,John,Doe,718-555-0152,MA,Boston,1984-07-26
+153,Jane,Smith,718-555-0153,FL,Miami,1984-08-30
+154,Alice,Johnson,718-555-0154,NY,New York,1984-10-04
+155,Bob,Miller,,CA,San Francisco,1984-11-08
+156,Charlie,Brown,718-555-0156,TX,Austin,1984-12-13
+157,David,Davis,718-555-0157,PA,Scranton,1985-01-17
+158,Eva,Garcia,718-555-0158,GA,Atlanta,1985-02-21
+159,Frank,Wilson,718-555-0159,WA,Seattle,1985-03-28
+160,Grace,Lee,,IL,Champaign,1985-05-02
+161,Henry,Clark,718-555-0161,VA,Richmond,1985-06-06
+162,Ivy,Lewis,718-555-0162,MA,Boston,1985-07-11
+163,Jack,Allen,718-555-0163,FL,Miami,1985-08-15
+164,Karen,Young,718-555-0164,NY,New York,1985-09-19
+165,Leo,King,,CA,San Francisco,1985-10-24
+166,Mia,Wright,718-555-0166,TX,Austin,1985-11-28
+167,Nathan,Scott,718-555-0167,PA,Scranton,1986-01-02
+168,Olivia,Green,718-555-0168,GA,Atlanta,1986-02-06
+169,Peter,Baker,718-555-0169,WA,Seattle,1986-03-13
+170,Ryan,Howard,,IL,Champaign,1986-04-17
+171,Sophia,Hill,718-555-0171,VA,Richmond,1986-05-22
+172,Thomas,Adams,718-555-0172,MA,Boston,1986-06-26
+173,Ursula,Cruz,718-555-0173,FL,Miami,1986-07-31
+174,Victor,Evans,718-555-0174,NY,New York,1986-09-04
+175,Wendy,Ford,,CA,San Francisco,1986-10-09
+176,Xavier,Gray,718-555-0176,TX,Austin,1986-11-13
+177,Yolanda,Hall,718-555-0177,PA,Scranton,1986-12-18
+178,Zachary,Irwin,718-555-0178,GA,Atlanta,1987-01-22
+179,Amos,Jones,718-555-0179,WA,Seattle,1987-02-26
+180,Beatrice,Keller,,IL,Champaign,1987-04-02
+181,Clayton,Lopez,718-555-0181,VA,Richmond,1987-05-07
+182,Diana,Mason,718-555-0182,MA,Boston,1987-06-11
+183,Ethan,Nixon,718-555-0183,FL,Miami,1987-07-16
+184,Fiona,Owen,718-555-0184,NY,New York,1987-08-20
+185,George,Page,,CA,San Francisco,1987-09-24
+186,Hannah,Quinn,718-555-0186,TX,Austin,1987-10-29
+187,Ian,Ross,718-555-0187,PA,Scranton,1987-12-03
+188,Julia,Stone,718-555-0188,GA,Atlanta,1988-01-07
+189,Kevin,Thomas,718-555-0189,WA,Seattle,1988-02-11
+190,Laura,Upton,,IL,Champaign,1988-03-17
+191,Marcus,Vance,718-555-0191,VA,Richmond,1988-04-21
+192,Nora,Welch,718-555-0192,MA,Boston,1988-05-26
+193,Owen,Xavier,718-555-0193,FL,Miami,1988-06-30
+194,Paige,Young,718-555-0194,NY,New York,1988-08-04
+195,Quentin,Zane,,CA,San Francisco,1988-09-08
+196,Rachel,Abbott,718-555-0196,TX,Austin,1988-10-13
+197,Steven,Bell,718-555-0197,PA,Scranton,1988-11-17
+198,Tina,Chief,718-555-0198,GA,Atlanta,1988-12-22
+199,Umar,Duke,718-555-0199,WA,Seattle,1989-01-26
+200,Valerie,East,,IL,Champaign,1989-03-02
+201,Mubtasim,Sharar,718-555-0201,VA,Richmond,1989-04-06
+202,John,Doe,718-555-0202,MA,Boston,1989-05-11
+203,Jane,Smith,718-555-0203,FL,Miami,1989-06-15
+204,Alice,Johnson,718-555-0204,NY,New York,1989-07-20
+205,Bob,Miller,,CA,San Francisco,1989-08-24
+206,Charlie,Brown,718-555-0206,TX,Austin,1989-09-28
+207,David,Davis,718-555-0207,PA,Scranton,1989-11-02
+208,Eva,Garcia,718-555-0208,GA,Atlanta,1989-12-07
+209,Frank,Wilson,718-555-0209,WA,Seattle,1990-01-11
+210,Grace,Lee,,IL,Champaign,1990-02-15
+211,Henry,Clark,718-555-0211,VA,Richmond,1990-03-22
+212,Ivy,Lewis,718-555-0212,MA,Boston,1990-04-26
+213,Jack,Allen,718-555-0213,FL,Miami,1990-05-31
+214,Karen,Young,718-555-0214,NY,New York,1990-07-05
+215,Leo,King,,CA,San Francisco,1990-08-09
+216,Mia,Wright,718-555-0216,TX,Austin,1990-09-13
+217,Nathan,Scott,718-555-0217,PA,Scranton,1990-10-18
+218,Olivia,Green,718-555-0218,GA,Atlanta,1990-11-22
+219,Peter,Baker,718-555-0219,WA,Seattle,1990-12-27
+220,Ryan,Howard,,IL,Champaign,1991-01-31
+221,Sophia,Hill,718-555-0221,VA,Richmond,1991-03-07
+222,Thomas,Adams,718-555-0222,MA,Boston,1991-04-11
+223,Ursula,Cruz,718-555-0223,FL,Miami,1991-05-16
+224,Victor,Evans,718-555-0224,NY,New York,1991-06-20
+225,Wendy,Ford,,CA,San Francisco,1991-07-25
+226,Xavier,Gray,718-555-0226,TX,Austin,1991-08-29
+227,Yolanda,Hall,718-555-0227,PA,Scranton,1991-10-03
+228,Zachary,Irwin,718-555-0228,GA,Atlanta,1991-11-07
+229,Amos,Jones,718-555-0229,WA,Seattle,1991-12-12
+230,Beatrice,Keller,,IL,Champaign,1992-01-16
+231,Clayton,Lopez,718-555-0231,VA,Richmond,1992-02-20
+232,Diana,Mason,718-555-0232,MA,Boston,1992-03-26
+233,Ethan,Nixon,718-555-0233,FL,Miami,1992-04-30
+234,Fiona,Owen,718-555-0234,NY,New York,1992-06-04
+235,George,Page,,CA,San Francisco,1992-07-09
+236,Hannah,Quinn,718-555-0236,TX,Austin,1992-08-13
+237,Ian,Ross,718-555-0237,PA,Scranton,1992-09-17
+238,Julia,Stone,718-555-0238,GA,Atlanta,1992-10-22
+239,Kevin,Thomas,718-555-0239,WA,Seattle,1992-11-26
+240,Laura,Upton,,IL,Champaign,1992-12-31
+241,Marcus,Vance,718-555-0241,VA,Richmond,1993-02-04
+242,Nora,Welch,718-555-0242,MA,Boston,1993-03-11
+243,Owen,Xavier,718-555-0243,FL,Miami,1993-04-15
+244,Paige,Young,718-555-0244,NY,New York,1993-05-20
+245,Quentin,Zane,,CA,San Francisco,1993-06-24
+246,Rachel,Abbott,718-555-0246,TX,Austin,1993-07-29
+247,Steven,Bell,718-555-0247,PA,Scranton,1993-09-02
+248,Tina,Chief,718-555-0248,GA,Atlanta,1993-10-07
+249,Umar,Duke,718-555-0249,WA,Seattle,1993-11-11
+250,Valerie,East,,IL,Champaign,1993-12-16

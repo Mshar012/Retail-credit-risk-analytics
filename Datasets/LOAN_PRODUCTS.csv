@@ -1,0 +1,5 @@
+product_id,product_name,interest_rate_floor,risk_tier
+1,Conforming Prime Mortgage,4.5,Prime
+2,Secured Auto Loan,5.75,Near-Prime
+3,Unsecured Personal Credit Line,9.5,Subprime
+4,Small Business Term Loan,6.2,Near-Prime

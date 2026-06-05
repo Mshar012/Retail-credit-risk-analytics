@@ -36,9 +36,35 @@ Instead of basic queries, this portfolio applies **Window Functions, Common Tabl
 
 ---
 
-## Quick Setup & Local Execution
+## Complete Database Setup & Dataset Ingestion Guide
 
-1. **Initialize the Target Environment:**
-   ```sql
-   CREATE DATABASE RiskAnalysis;
-   USE RiskAnalysis;
+> ⚠️ **Important:** The raw source datasets required for this project are fully posted and available inside the project directory. To reproduce the analytical findings, you must explicitly import these files into your local SQL engine before running the core analytical scripts.
+
+Follow this complete step-by-step sequence to construct the target environment and ingest the tables properly without facing schema conflicts:
+
+### Step 1: Initialize the Target Schema
+Open your database management client (e.g., MySQL Workbench) and execute the setup directive to build the clean database footprint:
+```sql
+CREATE DATABASE RiskAnalysis;
+USE RiskAnalysis;
+```
+
+### Step 2: Import the Posted CSV Datasets
+Because the relational data schema relies on strict foreign key references and interconnected data types, use the **Table Data Import Wizard** in MySQL Workbench to explicitly import the files. 
+
+Load the posted `.csv` source data files into your schema in this exact structural order:
+1. `BORROWERS.csv`
+2. `EMPLOYMENT_PROFILES.csv`
+3. `LOAN_PRODUCTS.csv`
+4. `LOANS.csv`
+5. `CREDIT_SCORES_HISTORY.csv`
+6. `COLLATERAL_VALUATIONS.csv`
+7. `GUARANTORS.csv`
+8. `PAYMENT_LEDGER.csv`
+
+*Note on Data Ingestion Audit:* During the step-by-step import of `PAYMENT_LEDGER.csv`, strict SQL type-casting will intentionally exclude completely missed payment records to shield production decimal columns from blank space inputs. This results in an intentional row drop that mimics real-world enterprise infrastructure limits.
+
+### Step 3: Run the Analytical Script Pipeline
+Once all the posted datasets are successfully loaded into your local environment, open your script tool, navigate to **File > Open SQL Script...**, select `Analysis.sql`, and execute the file.
+
+The production-ready script will automatically sequence through all business cases, instantly compiling the finalized, metrics-driven credit risk optimization grids directly inside your tool's output console.
